@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div><h1 align="center">Hi 👋, I'm Imamul Hossain Rafi</h1>
-<h1 align="center">Hi 👋, I'm Imamul Hossain Rafi</h1>
 <h3 align="center">Working hard, I guess</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hack-it-rafi&label=Profile%20views&color=0e75b6&style=flat" alt="hack-it-rafi" /> </p>
