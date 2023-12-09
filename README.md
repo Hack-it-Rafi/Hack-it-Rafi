@@ -21,7 +21,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hack-it-rafi&show_icons=true&locale=en&layout=compact" alt="hack-it-rafi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hack-it-rafi&show_icons=true&locale=en" alt="hack-it-rafi" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hack-it-rafi&" alt="hack-it-rafi" /></p>
 
 
 
