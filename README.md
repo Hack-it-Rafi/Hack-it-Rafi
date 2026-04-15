@@ -9,9 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rafi_vai_joss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafi_vai_joss" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/imamul-hossain-rafi-022792282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imamul-hossain-rafi-022792282" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_rafiiiiiiiiiii_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_rafiiiiiiiiiii_/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/imamul-hossain-rafi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imamul-hossain-rafi/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/qV6NdbwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/qV6NdbwA" height="30" width="40" /></a>
 </p>
 
